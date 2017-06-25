@@ -1,37 +1,18 @@
 ## 音樂研究方法論－寫作格式篇
 
-You can use the [editor on GitHub](https://github.com/askia318/Music_Elements_of_Style/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  國內的音樂領域的博碩士論文資料，長久以來一直缺乏固定的撰寫格式，使得學生 無所適從，老師們也沒有校正的標準，導致格式混亂。實際上畢業論文不但是學生與老 師的智慧結晶，更應該被視為各校的正式出版品，因此除了內容以外，在格式上也必須 盡可能統一。
+  
+  以英文論文為例，依照各領域不同，有APA, MLA, AMA, Chicago, Turabian ... 等 不同書寫格式。不過中文的部份，因為涉及翻譯及中英文陳列，格式又較英文論文複雜。 因此光是參考英文寫作格式，並不能完全滿足國內師生的需求。
+  
+  為了滿足以上的需要，本手冊以Turabian 格式為核心，將其轉換成中文撰寫格式， 並且針對以中文撰寫論文所會遇到的困難，例如中文原文翻譯及對照、音樂專有名詞寫法、中英文字型設定......等問題加以釋疑。為了讓讀者更加融會貫通，我們也從最近幾年國立臺灣師範大學碩士論文中選出數十個範例供讀者參考。另外，我們也簡單介紹數個在撰寫論文時會使用到的軟體，善用它們應該可以讓讀者在撰寫論文時能事半功倍。
+  
+  這本小冊無法完全取代[Turabian 寫作手冊(《寫作手冊》)](http://www.press.uchicago.edu/books/turabian/turabian_citationguide.html)，也不是專業的電腦軟體書籍，我們的目標是以精簡的方式，解決學生常見的問題。希望讀者有了基本的概念以後，自行翻閱《寫作手冊》或其他資料時能更快上手，以減輕撰寫論文的負擔，並且完成高品質、格式統一的作品。
+  
+  我們不是完美的作者，如有疏漏還請讀者不吝指正。也歡迎您註冊一個github帳號，並且分岔（fork）本網頁，以便當有版本更新時隨時收到最新的訊息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/askia318/Music_Elements_of_Style/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 本書目錄
+- 導讀
+- 格式
+- 論文範例討論
+- 軟體討論
+- 附錄
