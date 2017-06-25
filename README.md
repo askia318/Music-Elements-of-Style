@@ -12,7 +12,7 @@
 
 ### 本書目錄
 - 導讀
-- 格式
+- [格式](https://github.com/askia318/Music-Elements-of-Style/blob/master/Style)
 - 論文範例討論
 - 軟體討論
 - 附錄
