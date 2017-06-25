@@ -8,7 +8,7 @@
   
   這本小冊無法完全取代[Turabian 寫作手冊(《寫作手冊》)](http://www.press.uchicago.edu/books/turabian/turabian_citationguide.html)，也不是專業的電腦軟體書籍，我們的目標是以精簡的方式，解決學生常見的問題。希望讀者有了基本的概念以後，自行翻閱《寫作手冊》或其他資料時能更快上手，以減輕撰寫論文的負擔，並且完成高品質、格式統一的作品。
   
-  我們不是完美的作者，如有疏漏還請讀者不吝指正。也歡迎您註冊一個github帳號，並且分岔（fork）本網頁，以便當有版本更新時隨時收到最新的訊息。
+  我們不是完美的作者，如有疏漏還請讀者不吝指正。也歡迎您註冊一個[github](https://github.com/)帳號，並且分岔（Fork）[本網頁](https://github.com/askia318/Music-Elements-of-Style)，以便當有版本更新時隨時收到最新的訊息。
 
 ### 本書目錄
 - 導讀
